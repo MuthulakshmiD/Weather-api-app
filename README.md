@@ -93,6 +93,11 @@ Use this app when you need:
 ```
 
 
+## output
+
+<img width="1920" height="1080" alt="output" src="https://github.com/user-attachments/assets/a1b316c6-8913-415e-ab94-081b3e908ab8" />
+
+
 ## License
 
 Use and adapt this README freely. Include proper attribution if you reuse substantial parts in published work.  
